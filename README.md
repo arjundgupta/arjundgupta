@@ -2,7 +2,7 @@
 
 ---
 
-software engineer and student @ [university of waterloo](https://uwaterloo.ca)
+software engineer and student @ [waterloo](https://uwaterloo.ca)
 
 [website](https://www.arjundg.com) • [devpost](https://devpost.com/1ardgupta) • [1ardgupta@gmail.com](mailto:1ardgupta@gmail.com)
 
